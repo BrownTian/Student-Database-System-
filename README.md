@@ -1,2 +1,2 @@
-# Student-Database-System-
+# Student Database System
 Create and Develop Student Academic Database System
